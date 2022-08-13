@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SamCat07, I'm a GCSE computer science student who loves programming and making games.
+- 👀 I’m interested in game development (so long as I'm not building the environments!) and astronomy!
+- 🌱 I’m currently learning Lua (for roblox), Python (for school) and c# (for unity)
+- 💞️ I’m looking to collaborate on roblox game projects
+- 📫 If you ever want to contact me, sam.james.wylie@gmail.com is the place to do it.
