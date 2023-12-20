@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Swylie11, I'm an A level computer science student who loves programming and making games.
-- 👀 I’m interested in app and game development and astrophysics!
-- 🌱 I’m currently learning HTML, CSS and Python and will be delving into some JavaScript and React.JS soon
-- 📫 If you ever want to contact me, sam.james.wylie@gmail.com is the place to do it.
+- Hi, I’m Sam, I'm an A level computer science student who loves programming and making games!
+- I’m interested in app and game development and astrophysics!
+- I’m currently learning JavaScript and will be delving into some React.JS soon!
+- I'm proficient in Python and HTML/CSS
+- If you ever want to contact me, sam.james.wylie@gmail.com is the place to do it.
