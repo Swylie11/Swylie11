@@ -1,5 +1,5 @@
-- Hi, I’m Sam, I'm an A level computer science student who loves programming and making games!
-- I’m interested in app and game development and astrophysics!
-- I’m currently learning JavaScript and Machine learning
+- Hi, I’m Sam, I'm am undergraduate computer science and mathematics student who loves to program!
+- I’m interested in backend and app development!
+- I’m currently learning even more Machine learning
 - I'm proficient in Python and HTML/CSS
 - If you ever want to contact me, sam.james.wylie@gmail.com is the place to do it.
