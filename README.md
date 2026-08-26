@@ -1,5 +1,5 @@
 - Hi, I’m Sam, I'm am undergraduate computer science and mathematics student who loves to program!
 - I’m interested in backend and app development!
 - I’m currently learning even more Machine learning
-- I'm proficient in Python and HTML/CSS
+- I'm proficient in Python, JavaScript, Lua, HTML/CSS, Flutter and Node.js development
 - If you ever want to contact me, sam.james.wylie@gmail.com is the place to do it.
